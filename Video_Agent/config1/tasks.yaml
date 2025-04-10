@@ -1,0 +1,25 @@
+body_language_analysis_task:
+  description: >
+    Analyze the body language observed during the video meeting between the HR recruiter and the candidate based on this body language report {feedback}.
+    Focus on detecting any signs of dishonesty or cheating that you can find based on this body language feedback report {feedback}.
+  expected_output: >
+    A detailed and synthetic feedback summary on the body language observed.
+    Include:
+    - A clear and detailed summary of the candidate's overall body language
+    - Specific observations of any suspicious or inconsistent behaviors
+    - Detailed descriptions of non-verbal cues that may indicate dishonesty or cheating
+    - A synthetic analysis that can be used by the cheating detector agent to form an opinion on the candidate's honesty
+    Formatted as markdown without '```'
+  agent: body_language_analyst
+
+cheating_detection_task:
+  description: >
+    Provide a detailed analysis on whether the candidate was cheating during the video meeting with the HR recruiter.
+  expected_output: >
+    A comprehensive report including:
+    - A summary of the candidate's overall behavior
+    - Specific observations of any suspicious or inconsistent behaviors
+    - An opinion on whether the candidate was likely cheating or being dishonest
+    - Recommendations for the HR recruiter based on your analysis
+    Formatted as markdown without '```'
+  agent: cheating_detector
