@@ -3,6 +3,8 @@
 This project was developed during a hackathon organized by **Veo**, with the goal of creating an intelligent system to assist HR recruiters in evaluating candidates more effectively during video interviews.
 This project was developed with a team of 6 engineering students. Each one had its own tasks to do. The project was finally presented as a website called AICRUIT.
 
+I was responsible for developing the AI agents.
+
 ## 🚀 Project Overview
 
 The **AI Smart Recruitment System** integrates multiple AI agents to automate and enhance the recruitment process. It includes functionalities for analyzing candidate behavior during interviews and extracting actionable insights from resumes.
