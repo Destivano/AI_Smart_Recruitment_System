@@ -1,0 +1,18 @@
+**Comprehensive Analysis Report on Candidate Cheating during Video Meeting**
+
+**1. Summary of the Candidate's Overall Behavior:**
+The candidate demonstrated a somewhat subdued and guarded demeanor, which may suggest nervousness or apprehension in the interview setting. The minimal hand movements could indicate unease, while the absence of eye contact throughout the meeting is a significant concern.
+
+**2. Specific Observations of Any Suspicious or Inconsistent Behaviors:**
+- Frequent hand-on-waist gesture (10.36%), which might suggest nervousness or self-comfort, but also could be an attempt to hide potential signs of cheating.
+- Prolonged gaze downward (89.18%) that may indicate evasiveness or avoidance of eye contact, a red flag in job interviews.
+- Emotion Detector Analysis revealed a high level of fear (24.32%), which could suggest apprehension or anxiety, and the absence of eye contact throughout the meeting, indicating a lack of trust or authenticity in communication.
+
+**3. Opinion on Whether the Candidate was Likely Cheating or Being Dishonest:**
+The consistent absence of eye contact, minimal hand movements, and high levels of fear during the interview are signs that warrant further investigation. The possibility of potential deception or cheating cannot be definitively ruled out based solely on this analysis, but it is a red flag that should prompt HR recruiters to seek additional information and observations.
+
+**4. Recommendations for the HR Recruiter:**
+- Schedule a follow-up meeting with the candidate to address any concerns about their demeanor during the initial interview and evaluate their responses in person or via video call.
+- Incorporate behavioral-based questions into the interview process to gauge the candidate's honesty, reliability, and ability to communicate openly and honestly.
+- If possible, administer a test or task during the interview that requires immediate responses, which may help reveal whether the candidate is relying on pre-prepared materials or seeking assistance from others.
+- Evaluate whether the candidate's level of enthusiasm for the job opportunity aligns with their overall demeanor and responses during the interview process.
